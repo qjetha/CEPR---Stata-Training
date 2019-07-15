@@ -91,7 +91,7 @@ replace child_caste = itrim(child_caste)
 	try to match these variant spellings manually.
 	
 	Two commands can help to automate this string matching exercise (probabilistic data matching):
-	strmatch, & reclink.
+	strgroup, & reclink.
 */
 
 
