@@ -209,8 +209,6 @@ replace string_start_date = regexs(2)+regexs(1)+regexs(3) if regexm(string_start
 /*  (4) Extended Macro Functions - Take the form "local macroname : ..."
 	they are useful extensions of local macros that can make your code 
 	more efficient! 
-	
-	Sidrah introduced us to a few of these extended macro functions yesterday...
 */
 
 qui sum age
